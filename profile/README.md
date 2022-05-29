@@ -21,7 +21,7 @@ There are skills, items, challenges, levels, XP, badges, and more to gamify impr
 
 
 ### CONTRIBUTE
-If you want to help out, join our [discord](discord.gg/skilltree) with more information on how to contribute.
+If you want to help out, join our [discord](https//www.discord.gg/skilltree) with more information on how to contribute.
 We're actively looking for front-end and back-end developers for our discord bot, website, and mobile app projects. 
 Alternatively, we're also looking for designers, artists, marketers, editors and translators to help get this project off the ground 
 and make it as incredible as possible.
