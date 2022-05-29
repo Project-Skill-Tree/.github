@@ -3,7 +3,7 @@
 </p>
 
 ## Project Skill Tree 🚀
-We're developing a video game skill tree for real life so you know exactly how to progress with your self-improvement.
+We're developing a video game skill tree for real life to gamify your self-improvement.
 There are skills, items, challenges, levels, XP, badges, and more to gamify improvement and help people to improve their mental and physical health.
 
 
