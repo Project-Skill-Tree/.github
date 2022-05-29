@@ -16,7 +16,7 @@ and make it as incredible as possible.
 ### RESOURCES
 Check out our website at [projectskilltree.com](https://www.projectskilltree.com) where you'll find our bot documentation (Updates coming soon)
 
-<a href="discord.gg/skilltree">
+<a href="https://www.discord.gg/skilltree">
   <img align="left" src="https://raw.githubusercontent.com/Project-Skill-Tree/.github/main/images/discord.png" alt="icon | LinkedIn" width="21px"/></a>
 <a href="https://www.youtube.com/channel/UCjGRx-cMBQgYxfwq0PuhomA">
   <img align="left" src="https://raw.githubusercontent.com/Project-Skill-Tree/.github/main/images/youtube.png" alt="icon | LinkedIn" width="21px"/></a>
