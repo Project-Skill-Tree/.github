@@ -1,16 +1,17 @@
 <p align=”center”>
-<img width="800" height="200" src="https://user-images.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt="banner">
+<img width="800" height="200" src="https://raw.githubusercontent.com/Project-Skill-Tree/.github/main/skilltreebanner.png" alt="banner">
 </p>
 
 <a href="discord.gg/skilltree">
-  <img align="left" src="https://raw.githubusercontent.com/Project-Skill-Tree/.github/blob/main/images/discord.png" alt="icon | LinkedIn" width="21px"/></a>
+  <img align="left" src="https://raw.githubusercontent.com/Project-Skill-Tree/.github/main/images/discord.png" alt="icon | LinkedIn" width="21px"/></a>
 <a href="https://www.youtube.com/channel/UCjGRx-cMBQgYxfwq0PuhomA">
-  <img align="left" src="https://raw.githubusercontent.com/Project-Skill-Tree/.github/blob/main/images/youtube.png" alt="icon | LinkedIn" width="21px"/></a>
+  <img align="left" src="https://raw.githubusercontent.com/Project-Skill-Tree/.github/main/images/youtube.png" alt="icon | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/project_skilltree/">
-  <img align="left" src="https://raw.githubusercontent.com/Project-Skill-Tree/.github/blob/main/images/instagram.png" alt="icon | LinkedIn" width="21px"/></a>
+  <img align="left" src="https://raw.githubusercontent.com/Project-Skill-Tree/.github/main/images/instagram.png" alt="icon | LinkedIn" width="21px"/></a>
 <a href="https://twitter.com/SkillTree_">
-  <img align="left" src="https://raw.githubusercontent.com/Project-Skill-Tree/.github/blob/main/images/twitter.png" alt="icon | LinkedIn" width="21px"/></a>
-       
+  <img align="left" src="https://raw.githubusercontent.com/Project-Skill-Tree/.github/main/images/twitter.png" alt="icon | LinkedIn" width="21px"/></a>
+<br>
+
 ## Project Skill Tree 🚀
 
                                                                                                                                   
