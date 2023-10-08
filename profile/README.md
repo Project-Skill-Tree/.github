@@ -1,5 +1,5 @@
 <p align=”center”>
-<img width="800" height="200" src="https://raw.githubusercontent.com/Project-Skill-Tree/.github/main/skilltreebanner.png" alt="banner">
+<img width="800" height="200" src="https://raw.githubusercontent.com/Project-Skill-Tree/.github/main/promo-banner1500x600.png" alt="banner">
 </p>
 
 ## Project Skill Tree 🚀
